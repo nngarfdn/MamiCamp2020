@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7008736-4d26-4462-b7a6-c30558fb8534" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../11. Methods/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13. Challenge Methods &amp; Exstensions/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13. Class Inheritance/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.Overriding/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Polymorphism/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. Challenge - Classes - Starter/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19. Challenge Interfaces/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Conclusion - Lambda Grand Finale - Starter/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. Companion Objects/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Challenge Custom Accessors &amp; Companion Objects/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Delegated Properties/src/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cGv5hDflCaaaNkjw5oor2Tw81U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7008736-4d26-4462-b7a6-c30558fb8534" name="Default Changelist" comment="" />
+      <created>1590167562757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590167562757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1590169034678">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1590169034678" />
+    <state x="65" y="52" key="new project wizard" timestamp="1590169049901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="52" key="new project wizard/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1590169049901" />
+  </component>
+</project>
